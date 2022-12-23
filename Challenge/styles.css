@@ -1,0 +1,21 @@
+/* Nav */
+.navbar {
+    display: inline-block;
+    padding: 16px;
+    background-color: grey;
+}
+
+/* Body */
+.left {
+   width: 29%;
+   height: auto; 
+   float: left;
+   background-color: blue;
+}
+
+.right {
+   width: 70%;
+   height: auto; 
+   float: right;
+   background-color: green;
+}
